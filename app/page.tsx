@@ -533,7 +533,7 @@ s
             Rohit Jung Chettri
           </div>
           <p className="text-gray-400 mb-4">rohitjchettri@gmail.com</p>
-          <p className="text-sm text-gray-500">Made by Uddheshya Studios</p>
+          <p className="text-sm text-gray-500">Made by Uddheshya Studio</p>
         </div>
       </footer>
     </div>
