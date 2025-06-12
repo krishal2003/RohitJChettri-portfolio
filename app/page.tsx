@@ -36,7 +36,7 @@ export default function SingerPortfolio() {
     {
       title: "Bistarai Bistarai",
       year: "",
-      cover: "/slow.jpg?height=300&width=300",
+      cover: "/slow.JPG?height=300&width=300",
       tracks: [
         { title: "Bistarai", link: "https://youtu.be/UyKyqjnxy-4?si=hf5Yl65yGywAIXcI" },
         { title: "Timra Dui Ankhama", link: "https://youtu.be/3gPFdMOgOOA?si=pbKFZYcKpGpe6E-T" },
